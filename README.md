@@ -23,3 +23,13 @@ handling times, customer feedback, and agent performance.
 8)	What is the average order value associated with different customer complaints?
 9)	How do issue response times differ by customer city?
 10)	What trends can be identified in customer remarks over time?
+
+## Some Of the Insights
+1) The average response time for customer issues is 137 minutes, while the average handling time is 462 minutes. 
+Response times vary by shift, with an average of 130 minutes during the morning shift and 180 minutes during the night shift.
+
+2) The Returns category has the highest frequency of issues, with significant numbers related to reverse pickups, return requests, and fraudulent users.
+
+3) Order Related and Product Queries categories also show substantial frequencies, but they are less often compared to Returns.
+
+4) Landon Tanaka has the highest average CSAT score of 4.42, reflecting exceptional customer satisfaction under his supervision. 
