@@ -26,9 +26,8 @@ handling times, customer feedback, and agent performance.
 9)	How do issue response times differ by customer city?
 10)	What trends can be identified in customer remarks over time?
 
-![image](https://github.com/user-attachments/assets/88494de1-93ce-46ef-b0bb-4f1af543fc59)
 
-## Some Of the Insights
+## Some Of the Insights <img src="(https://github.com/user-attachments/assets/88494de1-93ce-46ef-b0bb-4f1af543fc59" width="50" height="50" alt="Your Image">
 1) The average response time for customer issues is 137 minutes, while the average handling time is 462 minutes. 
 Response times vary by shift, with an average of 130 minutes during the morning shift and 180 minutes during the night shift.
 
