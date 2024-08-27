@@ -1,4 +1,5 @@
-# Customer_Support_Data_Analysis ![image](https://github.com/user-attachments/assets/8173f82e-02c7-4126-ba28-56de72848691)
+# Customer_Support_Data_Analysis <img src="https://github.com/user-attachments/assets/8173f82e-02c7-4126-ba28-56de72848691" width="400" height="300" alt="Your Image">
+
 
 
 ## About Project
