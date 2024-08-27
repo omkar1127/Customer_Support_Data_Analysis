@@ -1,0 +1,20 @@
+Unique id: A distinct identifier for each record.
+channel_name: The platform or medium through which the customer interacted.
+category: The main classification of the issue or service.
+Sub-category: A more specific classification within the main category.
+Customer Remarks: Feedback or comments provided by the customer.
+Order_id: A unique number assigned to each order.
+order_date_time: The date and time when the order was placed.
+Issue_reported at: The date and time when the issue was reported.
+issue_responded: The date and time when the issue was addressed.
+Survey_response_Date: The date when the customer completed a survey.
+Customer_City: The city where the customer is located.
+Product_category: The classification of the product purchased.
+Item_price: The cost of the individual item.
+connected_handling_time: The duration spent handling the issue.
+Agent_name: The name of the customer service agent handling the issue.
+Supervisor: The name of the supervisor overseeing the agent.
+Manager: The name of the manager in charge of the department.
+Tenure Bucket: The length of time the agent has been employed.
+Agent Shift: The work shift during which the agent was active.
+CSAT Score: The Customer Satisfaction score given by the customer.
