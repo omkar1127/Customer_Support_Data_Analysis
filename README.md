@@ -1,4 +1,4 @@
-# Customer_Support_Data_Analysis <img src="https://github.com/user-attachments/assets/8173f82e-02c7-4126-ba28-56de72848691" width="400" height="300" alt="Your Image">
+# Customer_Support_Data_Analysis <img src="https://github.com/user-attachments/assets/8173f82e-02c7-4126-ba28-56de72848691" width="10" height="10" alt="Your Image">
 
 
 
