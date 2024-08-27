@@ -6,11 +6,11 @@ The data, sourced from the support team’s interactions with customers, encompa
 handling times, customer feedback, and agent performance.
 
 ## Skills Applied
-• Window Functions
-• Views
-• CTEs
-• Aggregations
-• Data Type Conversion
+• Window Functions<br/>
+• Views<br/>
+• CTEs<br/>
+• Aggregations<br/>
+• Data Type Conversion<br/>
 
 ## Questions Explored
 1)	What is the average response time for customer issues?
