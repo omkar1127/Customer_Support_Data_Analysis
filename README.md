@@ -1,4 +1,5 @@
-# Customer_Support_Data_Analysis
+# Customer_Support_Data_Analysis ![image](https://github.com/user-attachments/assets/8173f82e-02c7-4126-ba28-56de72848691)
+
 
 ## About Project
 This project focuses on analyzing customer support data to derive actionable insights and improve the overall support experience. 
